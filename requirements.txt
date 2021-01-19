@@ -1,0 +1,32 @@
+PyYAML >= 5.3.1
+
+# A:\Projects\Cnn10 Parse\CNN 10- 2020\Step 1 - Youtube Api Get .py: 3
+# A:\Projects\Cnn10 Parse\CNN 10- 2020\Step 2 - Download Video From Yaml.py: 1
+# A:\Projects\Cnn10 Parse\CNN 10- 2020\Step 3 - Splice video and Find TenOfTen.py: 9
+# A:\Projects\Cnn10 Parse\CNN 10- 2020\Step 4 - Take partitions of each video.py: 3
+cronyo >= 0.4.2
+# A:\Projects\Cnn10 Parse\CNN 10- 2020\Step 1 - Youtube Api Get .py: 6
+keyboard >= 0.13.5
+
+# A:\Projects\Cnn10 Parse\CNN 10- 2020\Step 4 - Take partitions of each video.py: 1
+# A:\Projects\Cnn10 Parse\CNN 10- 2020\Step 5 - Concatinate and Parse all clips.py: 1
+# A:\Projects\Cnn10 Parse\CNN 10- 2020\partitions\FinalParse.py: 1
+moviepy >= 1.0.3
+
+# A:\Projects\Cnn10 Parse\CNN 10- 2020\Step 3 - Splice video and Find TenOfTen.py: 6
+opencv_python >= 4.4.0.44
+
+# A:\Projects\Cnn10 Parse\CNN 10- 2020\Step 3 - Splice video and Find TenOfTen.py: 5
+pytesseract >= 0.3.7
+
+# A:\Projects\Cnn10 Parse\CNN 10- 2020\Step 2 - Download Video From Yaml.py: 2
+pytube >= 10.4.1
+
+# A:\Projects\Cnn10 Parse\CNN 10- 2020\Step 1 - Youtube Api Get .py: 1
+requests >= 2.23.0
+
+# A:\Projects\Cnn10 Parse\CNN 10- 2020\Step 1 - Youtube Api Get .py: 5
+selenium >= 3.141.0
+
+# A:\Projects\Cnn10 Parse\CNN 10- 2020\Step 1 - Youtube Api Get .py: 4
+youtube_transcript_api >= 0.3.1
